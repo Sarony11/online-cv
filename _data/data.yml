@@ -7,19 +7,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Saúl Fernández
+    tagline: DevOps, SRE Engineer, Architect, Consultor and Lord Sith.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: sarony11@gmail.com
+    timezone: Europe/Barcelona Timezone
+    citizenship: European/Spanish
+    website: saul.fernandez.me #do not add http://
+    linkedin: saul-fernandez-martinez
     xing: alandoe
-    github: sharu725
+    github: sarony11
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
