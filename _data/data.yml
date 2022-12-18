@@ -19,7 +19,7 @@ sidebar:
     website: saul.fernandez.me #do not add http://
     linkedin: saul-fernandez-martinez
     xing:
-    github: sarony11v
+    github: sarony11
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -41,13 +41,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: LARPs and RPG
           link:
 
-        - item: Snowboarding
+        - item: Trekking
           link:
 
-        - item: Cooking
+        - item: Indie videogames
           link:
 
 career-profile:
@@ -99,7 +99,7 @@ experiences:
           * Infrastructure orchestration with Ansible and Terraform.
           * Every day cross-team collaboration, ensuring reliable systems and ops support.
           * Runbooks and procedures documentation.
-          
+
           **Technolgies**
             - Infrastructure - AWS, Docker, Kubernetes
             - IaC - CI/CD - Ansible, Terraform, GitHub, GitHub Actions.
