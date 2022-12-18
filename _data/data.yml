@@ -107,28 +107,39 @@ experiences:
             - Services - RabbitMQ, ElasticSearch, Apigee
             - MLOps - Databricks, MLFlow, Machine Learning, Python
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Tech Lead and Consultant
+        time: 2013 - Presente
+        company: Semtecnologies - Freelance
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          **Main Duties**
+          - Cloud Architecture and migration from on-premise.
+          - Solutions architecture for each particular case.
+          - Leading the implementation and transition to remote first culture.
+          - Finding IT solutions for business problems.
+          - Acting as an interpreter between business needs and technological reality.
+          - Critical IT support and design disaster recovery strategy.
+
+      - role: Senior Cloud & System Architect
         time: 2012 - 2014
         company: Amazon, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        **Main achievements**
+        - Lead infrastructure migration from on-premise to cloud
+        - Lead migration from on-site company to full remote company
+        - Lead strategy and operations during COVID
+
+        **Main Duties**
+        - Setting the technical strategy ensuring alignment with business goals
+        - IT research and consultancy, responding quickly to new trends, changes and business needs.
+        - Ops and infrastructure support (Jira Service Desk & Confluence)
+        - Leading project IT management (Agile, Jira)
+        - Written/visual documentation for new technologies and procedures (Jira & Confluence)
+        - Admin server apps, perimeter firewalls, security, planning disaster recovery strategies and backup plans.
+
+        **Methodologies and Technologies**
+        - Methodologies - Remote first, OKR, Agile.
+        - OS - Windows 2012 R2, Debian, Ubuntu, CentOS.
+        - Infrastructure - VMWare, AWS, GCP, Docker, Kubernetes, GitHub
 #projects:
 #    title: Projects
 #    intro: >
