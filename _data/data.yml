@@ -202,6 +202,9 @@ skills:
       - name: IaC (Terraform, Spacelift)
         level: 80%
 
+      - name: CI/CD (Github Actions, FluxCD, GitOps, CircleCI)
+        level: 80%
+
       - name: Programming (Python, Shell)
         level: 50%
 
