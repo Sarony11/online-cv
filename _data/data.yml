@@ -91,14 +91,15 @@ experiences:
         time: 2021 - Present
         company: Parser Digital
         details: |
-          Working for Moody's Analytics division
+          Working for Moody's Analytics division.
+          
           **Main Duties**
-          Strategize, plan and execute monitoring in a ML microservices/serverless architecture.
-          Issue resolutions, working closer with the developer team.
-          Infrastructure orchestration with Ansible and Terraform.
-          Every day cross-team collaboration, ensuring reliable systems and ops support.
-          Runbooks and procedures documentation.
-          Technolgies
+            - Strategize, plan and execute monitoring in a ML microservices/serverless architecture.
+            - Issue resolutions, working closer with the developer team.
+            - Infrastructure orchestration with Ansible and Terraform.
+            - Every day cross-team collaboration, ensuring reliable systems and ops support.
+            - Runbooks and procedures documentation.
+          **Technolgies**
             - Infrastructure - AWS, Docker, Kubernetes
             - IaC - CI/CD - Ansible, Terraform, GitHub, GitHub Actions.
             - Monitoring - Prometheus, Grafana, Loki, Graylog, Icinga, PagerDuty, CloudWatch.
