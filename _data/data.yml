@@ -60,31 +60,31 @@ career-profile:
       Combining a technical background with leadership experience, I know first-hand how to design and apply methodologies to maximize the power of the team and how to mentor, support and motivate those around me to follow my lead. Risk assessment and bold decisions are two sides of the same coin, and I thrive on optimizing existing workflows or trying a completely new approach if needed. 
 
       Open to new opportunities as Platform Engineer, Cloud Solution Architect or collaborations as DevOps Consultant (remote only).
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+# education:
+#     title: Education
+#     info:
+#       - degree: MSc in Computer Science
+#         university: University of London
+#         time: 2011 - 2012
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
+#       - degree: BSc in Applied Mathematics
+#         university: Bristol University
+#         time: 2007 - 2011
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
 experiences:
     title: Experiences
     info:
