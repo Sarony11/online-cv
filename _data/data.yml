@@ -112,12 +112,12 @@ experiences:
         company: Semtecnologies - Freelance
         details: |
           **Main Duties**
-            - Cloud Architecture and migration from on-premise.
-            - Solutions architecture for each particular case.
-            - Leading the implementation and transition to remote first culture.
-            - Finding IT solutions for business problems.
-            - Acting as an interpreter between business needs and technological reality.
-            - Critical IT support and design disaster recovery strategy.
+          - Cloud Architecture and migration from on-premise.
+          - Solutions architecture for each particular case.
+          - Leading the implementation and transition to remote first culture.
+          - Finding IT solutions for business problems.
+          - Acting as an interpreter between business needs and technological reality.
+          - Critical IT support and design disaster recovery strategy.
 
       - role: Senior Cloud & System Architect
         time: 2016 - 2022
